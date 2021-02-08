@@ -1,3 +1,3 @@
-# git and github course
+# QUeSTION APP
 
-crash course for Git
+made by myself, Timofey91
